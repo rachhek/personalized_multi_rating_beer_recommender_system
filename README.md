@@ -22,6 +22,8 @@ This project is a recommender system that recommends a new beer a user might lik
 - To create a recommender system that aggregates the result of 4 single-rating recommender system based on each of the beer attributes and their weighted average.
 - The weight average can either come explicity from the user or by observing the correlation of each rating with the 'overall' rating.
 
+![Architecture](./screenshots/architecture.jpg)
+
 ## Python libraries used
 
 - scikit-surprise
@@ -43,6 +45,6 @@ This project is a recommender system that recommends a new beer a user might lik
 
 ![Step 3](./screenshots/screenshot3.jpg)
 
-
 # Project info
+
 This project was part of a project for a course called Data Mining at KTH Royal Institute of Technology. It was done together with Heeje Lee (https://github.com/zedshape), Balint Kovacs and Yu-wen Huang.
